@@ -1,0 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    color: blueviolet;
+}
+#nav-title{
+    font-family: 'Lobster', cursive;
+    color:rgb(103, 103, 103);
+}
